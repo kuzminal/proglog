@@ -1,7 +1,7 @@
-package server
+package main
 
 import (
-	_ "github.com/kuzminal/proglog"
+	"github.com/kuzminal/proglog/internal/server"
 	"log"
 )
 
